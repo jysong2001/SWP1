@@ -1,2 +1,2 @@
-20203087	 Song Jiyun
+Song Jiyun 20203087
 Kookmin Unv. SW(Computer Science)
